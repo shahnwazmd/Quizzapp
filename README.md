@@ -17,7 +17,7 @@ A fully interactive and responsive Angular Quiz Application featuring a countdow
 
 ## 🛠️ Tech Stack
 
-- Framework: [Angular 19](https://angular.io/)
+- Framework: [Angular 18](https://angular.io/)
 - Styling: Tailwind CSS / Bootstrap 
 - Language: TypeScript
 - Build Tool: Angular CLI
